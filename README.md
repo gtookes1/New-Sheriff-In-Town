@@ -72,4 +72,4 @@ Keeping this area!
 ](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/Image%201-16-25%20at%206.11%20PM.jpg?raw=true)![image](https://github.com/user-attachments/assets/5de655ca-bf3c-40a2-ad1a-17263927f8fe)
 
 
-[image](https://github.com/user-attachments/assets/39020f6e-37db-4639-b9d0-83f127bda3dc)
+![image alt](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/Image%201-16-25%20at%206.12%20PM.jpg?raw=true)
