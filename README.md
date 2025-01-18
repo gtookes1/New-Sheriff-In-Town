@@ -55,7 +55,6 @@ Hello im trying make sure that this works!
 keepiing this area!
 </p>
 <br />
-
 <p>
 <img src="" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
