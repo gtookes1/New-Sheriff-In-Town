@@ -62,7 +62,6 @@ keepiing this area!
 Keeping this area!
 </p>
 <br />
-![Alt text](URL_![image](https://github.com/user-attachments/assets/77754ada-6522-4b52-8321-0c9561221a7c)
-of_image)
+
 
 ![Alt text](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/Image%201-16-25%20at%206.10%20PM.jpg?raw=true)
