@@ -1,5 +1,5 @@
 "Installing The Domain Controller on Azure"
-![Alt text][(URL)![image](https://github.com/user-attachments/assets/4046303b-d601-4c72-8afb-527fb57979a4)
+![image](https://github.com/user-attachments/assets/4046303b-d601-4c72-8afb-527fb57979a4)
 ]
 ____________________________________________________________________
 <h2>Installation Steps</h2
