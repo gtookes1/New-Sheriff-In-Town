@@ -1,5 +1,5 @@
 "Installing The Domain Controller on Azure"
-![Alt text](URL)
+![Alt text][(URL)](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/AzurePHOTO.jpeg?raw=true)
 ____________________________________________________________________
 <h2>Installation Steps</h2
 ____________________________________________________________________
