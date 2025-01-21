@@ -1,4 +1,7 @@
 "Installing The Domain Controller on Azure"
+![image](https://github.com/user-attachments/assets/4fa14070-69c5-4c41-b8f3-918de5793aa6)
+
+
 ![image](https://github.com/user-attachments/assets/4046303b-d601-4c72-8afb-527fb57979a4)
 ]
 ____________________________________________________________________
