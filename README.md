@@ -5,8 +5,7 @@
   <img src="[url_to_image2](https://github.com/user-attachments/assets/4046303b-d601-4c72-8afb-527fb57979a4)" width="200" />
 </p>
 
-
-
+![image alt](https://github.com/gtookes1/New-Sheriff-In-Town/blob/30435634d3321a9ade93b59775006dcaa50671aa/willsmithmeme%20Background%20Removed.png)  
 ____________________________________________________________________
 <h2>Installation Steps</h2
 ____________________________________________________________________
