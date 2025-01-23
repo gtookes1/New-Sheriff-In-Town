@@ -6,8 +6,21 @@
 
 
 
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Document Title</title>
+    <!-- Link to the external CSS file -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Welcome to My Web Page</h1>
+    <h2>This is a subheading</h2>
+    <p>This is a paragraph of text on my web page.</p>
+</body>
+</html>
 
 
 <h2>Summary</h2
