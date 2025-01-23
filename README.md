@@ -1,7 +1,6 @@
 <h1>"Installing The Domain Controller on Azure"</h1>
 
-
-
+<img src="https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/AzurePHOTO.jpeg" width="200" height="200" />
 
 
 
