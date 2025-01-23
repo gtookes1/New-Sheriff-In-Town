@@ -1,15 +1,19 @@
 <h1>"Installing The Domain Controller on Azure"</h1>
 
-<p float="left">
-  <img src="[url_to_image1](https://github.com/user-attachments/assets/4fa14070-69c5-4c41-b8f3-918de5793aa6)" width="200" />
-  <img src="[url_to_image2](https://github.com/user-attachments/assets/4046303b-d601-4c72-8afb-527fb57979a4)" width="200" />
-</p>
-
-<img src="https://github.com/gtookes1/New-Sheriff-In-Town/blob/30435634d3321a9ade93b59775006dcaa50671aa/willsmithmeme%20Background%20Removed.png" width="50" height="50" />
-<img src="[https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/Image%201-16-25%20at%206.10%20PM.jpg?raw=true](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/AzurePHOTO.jpeg?raw=true)" width="50" height="50" />
 
 
-![image alt](https://github.com/gtookes1/New-Sheriff-In-Town/blob/30435634d3321a9ade93b59775006dcaa50671aa/willsmithmeme%20Background%20Removed.png)  ![image alt](https://github.com/gtookes1/New-Sheriff-In-Town/blob/92c803753593c09ef196b4a46462a1ffedb938c8/AzurePHOTO.jpeg)____________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+____________________________________________________________________
 <h2>Installation Steps</h2
 ____________________________________________________________________
 
