@@ -5,7 +5,7 @@
   <img src="[url_to_image2](https://github.com/user-attachments/assets/4046303b-d601-4c72-8afb-527fb57979a4)" width="200" />
 </p>
 
-![Alt text]([)](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/willsmithmeme%20Background%20Removed.png?raw=true) ![Alt text]([)](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/AzurePHOTO.jpeg?raw=true)
+
 
 ____________________________________________________________________
 <h2>Installation Steps</h2
