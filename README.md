@@ -20,13 +20,9 @@ ____________________________________________________________________
 <img src="" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1> </h1>
-- ### im seeing if this works
+- ###
 
-<h2>Video Demonstration</h2>
-
-- ### i dont think i'm doing a video for this but i will keep this area and see
-
+- ###
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
