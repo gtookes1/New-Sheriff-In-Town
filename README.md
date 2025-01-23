@@ -1,11 +1,12 @@
 <h1>"Installing The Domain Controller on Azure"</h1>
+
 <p float="left">
   <img src="[url_to_image1](https://github.com/user-attachments/assets/4fa14070-69c5-4c41-b8f3-918de5793aa6)" width="200" />
   <img src="[url_to_image2](https://github.com/user-attachments/assets/4046303b-d601-4c72-8afb-527fb57979a4)" width="200" />
 </p>
 
-![image](https://github.com/user-attachments/assets/4fa14070-69c5-4c41-b8f3-918de5793aa6) ![image](https://github.com/user-attachments/assets/4046303b-d601-4c72-8afb-527fb57979a4)
-]
+
+
 ____________________________________________________________________
 <h2>Installation Steps</h2
 ____________________________________________________________________
