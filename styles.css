@@ -1,0 +1,7 @@
+/* Import the new font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400;700&display=swap');
+
+/* Apply the new font to all heading levels */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Edu AU VIC WA NT Pre', sans-serif;
+}
