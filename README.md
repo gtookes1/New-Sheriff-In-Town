@@ -17,7 +17,7 @@ ____________________________________________________________________
   In this project, we have created two virtual machines one that acts as a dns server and one that represents many clients/users within a network.<br>This is the very foundation needed for deploying and creating Active Directory.
 
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="" alt="Microsoft Active Directory Logo"/>
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
