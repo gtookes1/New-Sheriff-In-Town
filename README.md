@@ -14,7 +14,7 @@
 ____________________________________________________________________
 
 ____________________________________________________________________  
-  In this project, we have created two virtual machines one that acts as a dns server and one that represents many clients/users within a network.<br>This is the very foundation needed for deploying and creating Active Directory.
+  In this project, we have created two virtual machines one that acts as a dns server and one that represents many clients/users within a network.This is the very foundation needed for creating and deploying Active Directory.
 
 <p align="center">
 <img src="" alt="Microsoft Active Directory Logo"/>
