@@ -28,8 +28,8 @@ ____________________________________________________________________
 - &#9670; Diamond Bullet Point
 
 
-- Windows Server 2022
-- Windows 10 (21H2)
+  &#9670;Windows Server 2022
+  &#9670;Windows 10 (21H2)
 
 
 <h4>Deployment and Configuration Steps</h4>
