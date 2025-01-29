@@ -94,6 +94,9 @@ ________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/006f119d-5b27-407b-a784-e400785f8065)
 
+<div align="center">
+  <p>You should vlidation passed highlighted in green. Afterwards click create</p>
+</div>
 
 
 ![image](https://github.com/user-attachments/assets/67ccbbf0-786f-4730-88b1-b6d8de6ee785)
