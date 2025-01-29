@@ -22,12 +22,6 @@ ____________________________________________________________________
 
 - <h4>Operating Systems Used </h4>
 
-
-- &#9733; Star Bullet Point
-- &#9679; Circle Bullet Point
-- &#9670; Diamond Bullet Point
-
-
   &#9670;Windows Server 2022
   &#9670;Windows 10 (21H2)
 
