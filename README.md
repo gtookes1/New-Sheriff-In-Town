@@ -22,7 +22,6 @@ ____________________________________________________________________
 <h3>&#9670; Operating Systems Used</h3>
 
  - Windows Server 2022
- - Windows 10 (21H2)
 
 
 <h4 align="center">Deployment and Configuration Steps</h4>
@@ -35,7 +34,7 @@ ________________________________________________________________________________
 ![Alt text](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/Image%201-16-25%20at%206.10%20PM.jpg?raw=true)
 
 <div align="center">
-  <p>Select "the designated Resource Group" </p>
+  <p>Select your designated "Resource Group" </p>
 </div>
 
 [
@@ -100,14 +99,14 @@ ________________________________________________________________________________
 
 
 <div align="center">
-  <p>You should see a "validation passed" message highlighted in green located in the upper left corner. Afterwards click "create"</p>
+  <p>You should see a "validation passed message" highlighted in green located in the upper left corner. Afterwards click "create"</p>
 </div>
 
 
 ![image](https://github.com/user-attachments/assets/67ccbbf0-786f-4730-88b1-b6d8de6ee785)
 
 <div align="center">
-  <p>Wait some more! You should receive a message that like the one in the upper right corner of the screen. </p>
+  <p>Wait some more! After some time you should see a message that like the one in the upper right corner of the screen. </p>
 </div>
 
 
