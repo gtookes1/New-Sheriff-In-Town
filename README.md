@@ -29,20 +29,20 @@ ____________________________________________________________________
 ______________________________________________________________________________________________________________________
 
 <div align="center">
-  <p> Click create Azure Virtual Machine </p>
+  <p> Click "create Azure Virtual Machine" </p>
 </div>
 
 ![Alt text](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/Image%201-16-25%20at%206.10%20PM.jpg?raw=true)
 
 <div align="center">
-  <p>Select the designated Resource Group </p>
+  <p>Select "the designated Resource Group" </p>
 </div>
 
 [
 ](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/Image%201-16-25%20at%206.11%20PM.jpg?raw=true)![image](https://github.com/user-attachments/assets/5de655ca-bf3c-40a2-ad1a-17263927f8fe)
 
 <div align="center">
-  <p>Type DC-1 for the VM name</p>
+  <p>Type "DC-1" for the VM name</p>
 </div>
 
 
@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 
 <div align="center">
-  <p>Select Windows 2022 Datacenter Azure Edition</p>
+  <p>Select "Windows 2022 Datacenter Azure Edition"</p>
 </div>
 
 
@@ -72,7 +72,7 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/21a58b4e-3268-4d7f-a5df-4cceea0a585b)
 
 <div align="center">
-  <p>Scroll down and click next</p>
+  <p>Scroll down and click "next"</p>
 </div>
 
 
@@ -80,14 +80,14 @@ ________________________________________________________________________________
 
 
 <div align="center">
-  <p>Scroll down and click review and create</p>
+  <p>Scroll down and click "review and create"</p>
 </div>
 
 ![image](https://github.com/user-attachments/assets/0fc06801-e316-4460-8825-9f8558da8b4f)
 
 
 <div align="center">
-  <p>Now wait patiently</p>
+  <p>Now wait patiently!</p>
 </div>
 
 
