@@ -22,6 +22,7 @@ ____________________________________________________________________
 - ★ Star Bullet Point
 - ● Circle Bullet Point
 - ◆ Diamond Bullet Point
+- hi i'm paul
 - <h4>Operating Systems Used </h4>
 
 - Windows Server 2022
