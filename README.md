@@ -66,7 +66,7 @@ ________________________________________________________________________________
 
 
 <div align="center">
-  <p>This is some centered text.</p>
+  <p>Pick a username and password you can remember</p>
 </div>
 
 ![image](https://github.com/user-attachments/assets/21a58b4e-3268-4d7f-a5df-4cceea0a585b)
