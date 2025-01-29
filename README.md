@@ -6,7 +6,7 @@
 <h2>Summary</h2
 ____________________________________________________________________  
   
-  In this project, we have created two virtual machines one that acts as a dns server and one that represents many clients/users within a network. This is the very foundation needed for creating and deploying Active Directory.
+  Mircosoft Azure helps individuals with building, storing, and running things easily on the web. In this project, one of two virtual machines have been created within Azure. One that is the domain controller but also acts as a dns server while the other one represents many clients/users within the network. We are focusing on the "domain controller" which asssists in managing user accounts, permissions, and the overall security of a network kind of like the sheriff in a town. This is the very foundation needed for creating and deploying ActiveDirectoryville (Active Directory)......
 
 <h3>Environments and Technologies Used</h3>
 _____________________________________________
@@ -14,7 +14,7 @@ _____________________________________________
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Active Directory Domain Services
-- PowerShell
+- PowerShell 
 - ★ Star Bullet Point
 - ● Circle Bullet Point
 - ◆ Diamond Bullet Point
