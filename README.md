@@ -15,15 +15,18 @@ ____________________________________________________________________
 <h3>Environments and Technologies Used</h3>
 
 
-- Microsoft Azure (Virtual Machines/Computer)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell 
-- ★ Star Bullet Point
-- ● Circle Bullet Point
-- ◆ Diamond Bullet Point
-- hi i'm paul
+- &#9670; Microsoft Azure (Virtual Machines/Computer)
+- &#9670; Remote Desktop
+- &#9670; Active Directory Domain Services
+- &#9670; PowerShell 
+
 - <h4>Operating Systems Used </h4>
+
+
+- &#9733; Star Bullet Point
+- &#9679; Circle Bullet Point
+- &#9670; Diamond Bullet Point
+
 
 - Windows Server 2022
 - Windows 10 (21H2)
