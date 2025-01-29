@@ -98,7 +98,6 @@ ________________________________________________________________________________
 
 
 
-![image](https://github.com/user-attachments/assets/006f119d-5b27-407b-a784-e400785f8065)
 
 <div align="center">
   <p>You should see a "validation passed" message highlighted in green located in the upper left corner. Afterwards click "create"</p>
