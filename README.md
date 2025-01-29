@@ -3,8 +3,9 @@
 <div align="center">
   <img src="https://github.com/gtookes1/New-Sheriff-In-Town/blob/30435634d3321a9ade93b59775006dcaa50671aa/willsmithmeme%20Background%20Removed.png" width="100" />
 </div>
-
-
+<div align="center">
+  <img src="https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/Image%201-16-25%20at%206.10%20PM.jpg?raw=true" alt="Azure Image" />
+</div>
 
 
 <img src="https://github.com/gtookes1/New-Sheriff-In-Town/blob/30435634d3321a9ade93b59775006dcaa50671aa/willsmithmeme%20Background%20Removed.png" width="100" /> <img src="https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/AzurePHOTO.jpeg" width="250" height="150" />
