@@ -102,12 +102,18 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/67ccbbf0-786f-4730-88b1-b6d8de6ee785)
 
 <div align="center">
-  <p>This is some centered text.</p>
+  <p>Wait some more! You should receive a message that like the one in the upper right corner of the screen. </p>
 </div>
 
 
 
 ![image](https://github.com/user-attachments/assets/a82189be-2609-4b03-b411-7ca168710e69)
+
+
+
+
+
+
 
 
 
