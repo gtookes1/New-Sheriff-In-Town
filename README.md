@@ -8,15 +8,17 @@ ____________________________________________________________________
   
   In this project, we have created two virtual machines one that acts as a dns server and one that represents many clients/users within a network. This is the very foundation needed for creating and deploying Active Directory.
 
-<h2>Environments and Technologies Used</h3>
-------------------------------------------
+<h3>Environments and Technologies Used</h3>
+_____________________________________________
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Active Directory Domain Services
 - PowerShell
-
-<h4>Operating Systems Used </h4>
+- ★ Star Bullet Point
+- ● Circle Bullet Point
+- ◆ Diamond Bullet Point
+- <h4>Operating Systems Used </h4>
 
 - Windows Server 2022
 - Windows 10 (21H2)
