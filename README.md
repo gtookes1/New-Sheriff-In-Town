@@ -12,7 +12,7 @@ ____________________________________________________________________
   
   Mircosoft Azure helps individuals with building, storing, and running things easily on the web. In this project, one of two virtual machines have been created within Azure. One that is the domain controller but also acts as a dns server while the other one represents many clients/users within the network. We are focusing on the "domain controller" which asssists in managing user accounts, permissions, and the overall security of a network kind of like the sheriff in a town. This is the very foundation needed for creating and deploying ActiveDirectoryville (Active Directory) demonstrated below......
 
-<h3>Environments and Technologies Used</h3>
+-<h3>Environments and Technologies Used</h3>
 
 
  &#9670; Microsoft Azure (Virtual Machines/Computer)
@@ -20,7 +20,7 @@ ____________________________________________________________________
  &#9670; Active Directory Domain Services
  &#9670; PowerShell 
 
-<h3>Operating Systems Used </h3>
+-<h3>Operating Systems Used </h3>
 
  &#9670;Windows Server 2022
  &#9670;Windows 10 (21H2)
