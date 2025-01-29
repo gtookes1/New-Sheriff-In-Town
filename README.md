@@ -20,7 +20,7 @@ ____________________________________________________________________
  &#9670; Active Directory Domain Services
  &#9670; PowerShell 
 
-- <h4>Operating Systems Used </h4>
+- <h3>Operating Systems Used </h3>
 
   &#9670;Windows Server 2022
   &#9670;Windows 10 (21H2)
