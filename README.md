@@ -43,7 +43,7 @@ ____________________________________________________________________
 - Active Directory Domain Services
 - PowerShell
 
-<h2>Operating Systems Used </h2>
+<h4>Operating Systems Used </h4>
 
 - Windows Server 2022
 - Windows 10 (21H2)
@@ -57,28 +57,8 @@ ____________________________________________________________________
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Hello im trying make sure that this works!
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-keepiing this area!
-</p>
-<br />
-<p>
-<img src="" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Keeping this area!
-</p>
-<br />
+
 
 
 ![Alt text](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/Image%201-16-25%20at%206.10%20PM.jpg?raw=true)
