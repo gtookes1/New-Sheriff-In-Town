@@ -72,7 +72,7 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/21a58b4e-3268-4d7f-a5df-4cceea0a585b)
 
 <div align="center">
-  <p>Scrolle down and click next</p>
+  <p>Scroll down and click next</p>
 </div>
 
 
@@ -80,7 +80,7 @@ ________________________________________________________________________________
 
 
 <div align="center">
-  <p>This is some centered text.</p>
+  <p>Scroll down and click review and create</p>
 </div>
 
 ![image](https://github.com/user-attachments/assets/0fc06801-e316-4460-8825-9f8558da8b4f)
@@ -89,6 +89,11 @@ ________________________________________________________________________________
 <div align="center">
   <p>This is some centered text.</p>
 </div>
+
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/67ccbbf0-786f-4730-88b1-b6d8de6ee785)
 
