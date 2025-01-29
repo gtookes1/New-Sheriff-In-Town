@@ -1,13 +1,10 @@
  <h1 align="center">"New Sheriff In Town"</h1> 
 
-<div align="center">
-  <img src="https://github.com/gtookes1/New-Sheriff-In-Town/blob/30435634d3321a9ade93b59775006dcaa50671aa/willsmithmeme%20Background%20Removed.png" width="100" />
-</div>
 
 
 <div align="center">
   <img src="https://github.com/gtookes1/New-Sheriff-In-Town/blob/30435634d3321a9ade93b59775006dcaa50671aa/willsmithmeme%20Background%20Removed.png" width="100" />
-  <img src="[URL_OF_THE_OTHER_IMAGE](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/AzurePHOTO.jpeg)" width="100" />
+  <img src="(https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/AzurePHOTO.jpeg)" width="100" />
 </div>
 <img src="https://github.com/gtookes1/New-Sheriff-In-Town/blob/30435634d3321a9ade93b59775006dcaa50671aa/willsmithmeme%20Background%20Removed.png" width="100" /> <img src="https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/AzurePHOTO.jpeg" width="250" height="150" />
 
