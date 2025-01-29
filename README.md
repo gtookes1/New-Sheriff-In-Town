@@ -41,12 +41,25 @@ ________________________________________________________________________________
 [
 ](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/Image%201-16-25%20at%206.11%20PM.jpg?raw=true)![image](https://github.com/user-attachments/assets/5de655ca-bf3c-40a2-ad1a-17263927f8fe)
 
+<div align="center">
+  <p>This is some centered text.</p>
+</div>
+
 
 ![image alt](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/Image%201-16-25%20at%206.12%20PM.jpg?raw=true)
 
 
+<div align="center">
+  <p>This is some centered text.</p>
+</div>
+
 
 ![image alt]![image](https://github.com/user-attachments/assets/4a394c11-d6fd-482d-81ee-1cad4276f3a6)
+
+
+<div align="center">
+  <p>This is some centered text.</p>
+</div>
 
 ![image alt]![image](https://github.com/user-attachments/assets/02ddb8f8-0e84-4f63-9bec-b86165857866)
 
