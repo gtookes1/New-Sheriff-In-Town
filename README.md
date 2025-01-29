@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 
 <div align="center">
-  <p>This is some centered text.</p>
+  <p>Select Windows 2022 Datacenter Hotpatch</p>
 </div>
 
 
