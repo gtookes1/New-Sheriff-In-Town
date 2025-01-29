@@ -15,10 +15,10 @@ ____________________________________________________________________
 <h3>Environments and Technologies Used</h3>
 
 
-- &#9670; Microsoft Azure (Virtual Machines/Computer)
-- &#9670; Remote Desktop
-- &#9670; Active Directory Domain Services
-- &#9670; PowerShell 
+ &#9670; Microsoft Azure (Virtual Machines/Computer)
+ &#9670; Remote Desktop
+ &#9670; Active Directory Domain Services
+ &#9670; PowerShell 
 
 - <h4>Operating Systems Used </h4>
 
