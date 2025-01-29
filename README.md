@@ -35,7 +35,7 @@ ________________________________________________________________________________
 ![Alt text](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/Image%201-16-25%20at%206.10%20PM.jpg?raw=true)
 
 <div align="center">
-  <p>This is some centered text.</p>
+  <p>Click the same resource group that is intended for this purpose</p>
 </div>
 
 [
