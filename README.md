@@ -59,7 +59,7 @@ ________________________________________________________________________________
 
 
 <div align="center">
-  <p>This is some centered text.</p>
+  <p>Pick a size that only has 2 vcpus</p>
 </div>
 
 ![image](https://github.com/user-attachments/assets/ac93e853-acb0-45c1-a4c0-477f2bf84ab0)
