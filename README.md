@@ -54,7 +54,7 @@ ________________________________________________________________________________
 </div>
 
 
-![image alt]![image](https://github.com/user-attachments/assets/4a394c11-d6fd-482d-81ee-1cad4276f3a6)
+![image](https://github.com/user-attachments/assets/4a394c11-d6fd-482d-81ee-1cad4276f3a6)
 
 
 <div align="center">
