@@ -61,8 +61,6 @@ ________________________________________________________________________________
   <p>This is some centered text.</p>
 </div>
 
-![image](https://github.com/user-attachments/assets/02ddb8f8-0e84-4f63-9bec-b86165857866)
-
 
 <div align="center">
   <p>This is some centered text.</p>
