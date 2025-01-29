@@ -55,10 +55,8 @@ ____________________________________________________________________
 - Step 3
 - Step 4
 
-<h2>Deployment and Configuration Steps</h2>
-
-
-
+<h4>Deployment and Configuration Steps</h4>
+_____________________________________________________________________________
 
 
 ![Alt text](https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/Image%201-16-25%20at%206.10%20PM.jpg?raw=true)
