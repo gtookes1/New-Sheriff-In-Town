@@ -61,7 +61,7 @@ ________________________________________________________________________________
   <p>This is some centered text.</p>
 </div>
 
-![image alt]![image](https://github.com/user-attachments/assets/02ddb8f8-0e84-4f63-9bec-b86165857866)
+![image](https://github.com/user-attachments/assets/02ddb8f8-0e84-4f63-9bec-b86165857866)
 
 
 ![image alt]![image](https://github.com/user-attachments/assets/1462aea3-35ad-45ef-885c-974fe1a9daf4)
