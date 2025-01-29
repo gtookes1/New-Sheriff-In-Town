@@ -25,7 +25,7 @@ ____________________________________________________________________
  - Windows 10 (21H2)
 
 
-<h4>Deployment and Configuration Steps</h4>
+<h4 align="center">Deployment and Configuration Steps</h4>
 _____________________________________________________________________________
 
 
