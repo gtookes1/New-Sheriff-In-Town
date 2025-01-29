@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 
 <div align="center">
-  <p>Select Windows 2022 Datacenter Hotpatch</p>
+  <p>Select Windows 2022 Datacenter Azure Edition</p>
 </div>
 
 
