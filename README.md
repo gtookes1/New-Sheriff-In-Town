@@ -8,11 +8,8 @@ ____________________________________________________________________
   
   In this project, we have created two virtual machines one that acts as a dns server and one that represents many clients/users within a network. This is the very foundation needed for creating and deploying Active Directory.
 
-
-- ###
-
-- ###
 <h2>Environments and Technologies Used</h3>
+------------------------------------------
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
