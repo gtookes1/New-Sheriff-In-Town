@@ -57,18 +57,6 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/4a394c11-d6fd-482d-81ee-1cad4276f3a6)
 
 
-<div align="center">
-  <p>This is some centered text.</p>
-</div>
-
-
-<div align="center">
-  <p>This is some centered text.</p>
-</div>
-
-
-![image](https://github.com/user-attachments/assets/1462aea3-35ad-45ef-885c-974fe1a9daf4)
-
 
 <div align="center">
   <p>This is some centered text.</p>
