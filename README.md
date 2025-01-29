@@ -87,7 +87,7 @@ ________________________________________________________________________________
 
 
 <div align="center">
-  <p>This is some centered text.</p>
+  <p>After alot of buffering</p>
 </div>
 
 
